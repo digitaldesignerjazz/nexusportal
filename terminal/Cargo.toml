@@ -1,0 +1,11 @@
+[package]
+name = "nexusportal"
+version = "0.1.0"
+edition = "2021"
+description = "NexusPortal - Interactive terminal console with Grok Launcher integration"
+license = "Apache-2.0"
+
+[dependencies]
+ratatui = "0.26"
+crossterm = "0.27"
+color-eyre = "0.6"
